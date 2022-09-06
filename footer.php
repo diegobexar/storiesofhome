@@ -28,7 +28,7 @@
 
         <ul class="copyright-holder">
             <li class="copyright-footer">
-                © 2021 <a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
+                © 2022 <a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
             </li>
         </ul>
     </div>
