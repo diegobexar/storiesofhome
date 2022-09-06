@@ -3,14 +3,14 @@
 <html lang="en-US">
 <?php
 
-  $PageTitle = 'STORIES OF HOME MISSOULA';
+  $PageTitle = 'STORIES OF HOME MISSOULA 2021';
 
 ?>
 <?php include 'header.php'; ?>
 
 
 <!-- menu.php here -->
-    <?php include 'menu.php'; ?>
+    <?php //include 'menu.php'; ?>
 
         <div id="content" class="site-content">
             <ul class="grid" id="story">
