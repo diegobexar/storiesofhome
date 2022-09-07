@@ -10,9 +10,9 @@
 
 
     <!-- menu.php here -->
-    <?php //include 'menu.php'; ?>
+    <?php include 'menu.php'; ?>
 
-    <?php include 'content-2021'; ?>
+    <?php include 'content-2021.php'; ?>
 
     <!--Footer-->
     <?php include 'footer.php'; ?>
