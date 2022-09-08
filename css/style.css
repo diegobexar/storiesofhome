@@ -708,7 +708,7 @@ body a:hover
     transition: all ease 0.3s 0.15s;
 }
 
-
+.sub-head {padding-bottom:1rem;}
 /* ===================================
     3. General Page CSS
 ====================================== */
@@ -720,14 +720,15 @@ body a:hover
 
 .page h1.entry-title
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-style: normal;
     font-size: 47px;
     line-height: 60px;
     font-weight: 700;
     max-width: 650px;
     margin: 0 auto;
     padding-top: 0;
-    padding-bottom: 35px;
+    /*padding-bottom: 35px;*/
     text-align: center;
 }
 
@@ -779,6 +780,9 @@ body a:hover
 
 .info-code-title
 {
+    font-family: myriad-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 65px;
     color: rgb(255,255,255, 0.9);
     font-weight: 400;
@@ -866,12 +870,13 @@ body a:hover
 
 .single h1.entry-title
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
+    font-style: normal;
     color: rgb(255,255,255, 0.87);
     font-size: 60px;
     line-height: 60px;
-    margin-bottom: 40px;
+    /*margin-bottom: 40px;*/
     -ms-word-wrap: break-word;
     word-wrap: break-word;
     max-width: 580px;
@@ -1161,7 +1166,9 @@ body a:hover
 
 .story-text-holder .story-text
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: myriad-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 36px;
     line-height: 100%;
 }
