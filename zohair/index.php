@@ -9,8 +9,6 @@
 ?>
 <?php require '../header.php'; ?>
 
-<?php require '../menu.php'; ?>
-
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
             <div class="center-relative clear">
@@ -34,7 +32,7 @@
                         </div>
                         <div class="content-wrapper">
                             <p>"Honestly, it's just the community. The people. The beauty that we live in the mountains. The clean water, the drives you can make, the random hellos when you're driving down the road and people just wave at you, just small things like that. If you break down the middle of nowhere, somebody will stop."</p>
-                            <p><a href="#">Read Zohair's full interview transcript</a></p>
+                            <p><a href="/transcripts/Zohair.pdf" target="_blank">Read Zohair's full interview transcript (PDF)</a></p>
 
 
                         </div>
