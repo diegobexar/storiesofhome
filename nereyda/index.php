@@ -9,8 +9,6 @@
 ?>
 <?php require '../header.php'; ?>
 
-<?php require '../menu.php'; ?>
-
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
             <div class="center-relative clear">
@@ -33,8 +31,8 @@
                             <div class="single-photo"><img src="/images/nereyda.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
-                            <p>"You know, I think in the world that we could care about each other more things would be easier and less… I don't know. It wouldn't be hard as much."</p>
-                            <p><a href="#">Read Nereyda's full interview transcript</a></p>
+                        <p>"I wish we could just care about each other more. You know, I think in the world that we could care about each other more, things would be easier and less...I don't know. It wouldn't be hard as much."</p>
+                            <p><a href="/transcripts/Nereyda.pdf" target="_blank">Read Nereyda's full interview transcript (PDF)</a></p>
 
 
                         </div>

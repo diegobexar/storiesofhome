@@ -9,8 +9,6 @@
 ?>
 <?php require '../header.php'; ?>
 
-<?php require '../menu.php'; ?>
-
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
             <div class="center-relative clear">
@@ -34,7 +32,7 @@
                         </div>
                         <div class="content-wrapper">
                             <p>"I ask is this Is Missoula in America? She said yes. Now I can’t leave here. I came to Missoula in my mind, and if that’s Missoula I will stay here."</p>
-                            <p><a href="#">Read Paul's full interview transcript</a></p>
+                            <p><a href="/transcripts/Paul.pdf" target="_blank">Read Paul's full interview transcript (PDF)</a></p>
 
 
                         </div>
