@@ -30,13 +30,13 @@ body
     line-height: 35px;
     font-weight: 400;
     color: rgb(255,255,255, 0.9);
-    background-color: #121212;
+    background-color: #366d9b;
 }
 
 body a
 {
     text-decoration: none;
-    color: #d7b065;
+    color: #dcb548;
     transition: color .2s linear;
 }
 
@@ -1637,12 +1637,12 @@ footer ul
     clear: both;
     color: rgb(255,255,255, 0.9);
     text-align: center;
-    background: #000;
+    background: #121212;
 }
 
 .footer a
 {
-    color: #d7b065;
+    color: #dcb548;
 }
 
 .footer-logo
