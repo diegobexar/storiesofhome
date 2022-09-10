@@ -8,17 +8,17 @@
             <ul class="grid" id="story">
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
-                        <a href="/charly/">
+                        <a href="/2021/charly/">
                             <img src="images/charly.jpg" alt="Charly" />
                         </a>
                         <div class="story-text-holder">
                             <div class="story-info">
-                                <a class="story-text" href="/charly/">CHARLY</a>
+                                <a class="story-text" href="/2021/charly/">CHARLY</a>
                                 <p class="story-category">
                                     <a title="Democratic Republic of Congo, Uganda">Democratic Republic of Congo<br />Uganda</a>
                                 </p>
                                 <p class="story-arrow">
-                                    <a href="/charly/">
+                                    <a href="/2021/charly/">
                                         <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
@@ -28,17 +28,17 @@
                 </li>
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
-                        <a href="/tenzin/">
+                        <a href="/2021/tenzin/">
                             <img src="images/tenzin.jpg" alt="Tenzin" />
                         </a>
                         <div class="story-text-holder">
                             <div class="story-info">
-                                <a class="story-text" href="/tenzin/">TENZIN</a>
+                                <a class="story-text" href="/2021/tenzin/">TENZIN</a>
                                 <p class="story-category">
                                     <a title="Tibet, India">Tibet<br />India</a>
                                 </p>
                                 <p class="story-arrow">
-                                    <a href="/tenzin/">
+                                    <a href="/2021/tenzin/">
                                         <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
@@ -48,17 +48,17 @@
                 </li>
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
-                        <a href="/zohair/">
+                        <a href="/2021/zohair/">
                             <img src="images/zohair.jpg" alt="Zohair" />
                         </a>
                         <div class="story-text-holder">
                             <div class="story-info">
-                                <a class="story-text" href="/zohair/">ZOHAIR</a>
+                                <a class="story-text" href="/2021/zohair/">ZOHAIR</a>
                                 <p class="story-category">
                                     <a title="Pakistan">Pakistan</a>
                                 </p>
                                 <p class="story-arrow">
-                                    <a href="/zohair/">
+                                    <a href="/2021/zohair/">
                                         <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
@@ -71,17 +71,17 @@
                 </li>
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
-                        <a href="/nereyda/">
+                        <a href="/2021/nereyda/">
                             <img src="images/nereyda.jpg" alt="Nereyda" />
                         </a>
                         <div class="story-text-holder">
                             <div class="story-info">
-                                <a class="story-text" href="/nereyda/">Nereyda</a>
+                                <a class="story-text" href="/2021/nereyda/">Nereyda</a>
                                 <p class="story-category">
                                     <a title="Mexico">Mexico</a>
                                 </p>
                                 <p class="story-arrow">
-                                    <a href="/nereyda/">
+                                    <a href="/2021/nereyda/">
                                         <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
@@ -91,17 +91,17 @@
                 </li>
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
-                        <a href="/paul/">
+                        <a href="/2021/paul/">
                             <img src="images/paul.jpg" alt="Paul" />
                         </a>
                         <div class="story-text-holder">
                             <div class="story-info">
-                                <a class="story-text" href="/paul/">Paul</a>
+                                <a class="story-text" href="/2021/paul/">Paul</a>
                                 <p class="story-category">
                                     <a title="Democratic Republic of Congo, Rwanda">Democratic Republic of Congo<br /> Rwanda</a>
                                 </p>
                                 <p class="story-arrow">
-                                    <a href="/paul/">
+                                    <a href="/2021/paul/">
                                         <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>

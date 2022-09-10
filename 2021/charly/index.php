@@ -7,8 +7,8 @@
   $PageTitle = 'STORIES OF HOME - CHARLY';
 
 ?>
-<?php require '../header.php'; ?>
-<?php require '../menu.php'; ?>
+<?php require '../../header.php'; ?>
+<?php require '../../menu.php'; ?>
 
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
@@ -29,11 +29,11 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/images/charly.jpg" /></div>
+                            <div class="single-photo"><img src="/2021/images/charly.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
                             <p>"I was planning to join, uh, Forest fire fighters, because since I came here, which I was just stuck on that and think about it all the time, how can I do that job or how can I be the part of that job to be helping people? They told me that I have to be a citizen here, so I'm waiting and I'm ready to join whenever it’s time."</p>
-                            <p><a href="/transcripts/Charly.pdf" target="_blank">Read Charly's full interview transcript (PDF)</a></p>
+                            <p><a href="/2021/transcripts/Charly.pdf" target="_blank">Read Charly's full interview transcript (PDF)</a></p>
 
 
                         </div>
@@ -46,5 +46,5 @@
     </div>
 
     <!--Footer-->
-  <?php require '../footer.php'; ?>
+  <?php require '../../footer.php'; ?>
 </html>

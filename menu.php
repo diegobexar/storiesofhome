@@ -14,12 +14,12 @@
             <nav id="header-main-menu" class="big-menu">
                 <ul class="main-menu sm sm-clean">
                     <li><a href="/index.php" class="current">Home</a></li>
-                    <li style="margin-top:2rem;">2021</li>
-                    <li><a href="/charly/">CHARLY</a></li>
-                    <li><a href="/tenzin/">TENZIN</a></li>
-                    <li><a href="/zohair/">ZOHAIR</a></li>
-                    <li><a href="/nereyda/">NEREYDA</a></li>
-                    <li><a href="/paul/">PAUL</a></li>
+                    <li style="margin-top:2rem;"><strong><a href="/2021/">2021</a></strong></li>
+                    <li><a href="/2021/charly/">CHARLY</a></li>
+                    <li><a href="/2021/tenzin/">TENZIN</a></li>
+                    <li><a href="/2021/zohair/">ZOHAIR</a></li>
+                    <li><a href="/2021/nereyda/">NEREYDA</a></li>
+                    <li><a href="/2021/paul/">PAUL</a></li>
                     <hr>
                 </ul>
             </nav>

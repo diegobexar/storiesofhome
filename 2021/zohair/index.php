@@ -7,7 +7,8 @@
   $PageTitle = 'STORIES OF HOME - ZOHAIR';
 
 ?>
-<?php require '../header.php'; ?>
+<?php require '../../header.php'; ?>
+<?php require '../../menu.php'; ?>
 
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
@@ -28,11 +29,11 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/images/zohair.jpg" /></div>
+                            <div class="single-photo"><img src="/2021/images/zohair.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
                             <p>"Honestly, it's just the community. The people. The beauty that we live in the mountains. The clean water, the drives you can make, the random hellos when you're driving down the road and people just wave at you, just small things like that. If you break down the middle of nowhere, somebody will stop."</p>
-                            <p><a href="/transcripts/Zohair.pdf" target="_blank">Read Zohair's full interview transcript (PDF)</a></p>
+                            <p><a href="/2021/transcripts/Zohair.pdf" target="_blank">Read Zohair's full interview transcript (PDF)</a></p>
 
 
                         </div>
@@ -45,7 +46,5 @@
     </div>
 
     <!--Footer-->
-  <?php require '../footer.php'; ?>
-
-  </body>
+  <?php require '../../footer.php'; ?>
 </html>

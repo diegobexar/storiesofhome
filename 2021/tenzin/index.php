@@ -7,7 +7,8 @@
   $PageTitle = 'STORIES OF HOME - TENZIN';
 
 ?>
-<?php require '../header.php'; ?>
+<?php require '../../header.php'; ?>
+<?php require '../../menu.php'; ?>
 
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
@@ -28,11 +29,11 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/images/tenzin.jpg" /></div>
+                            <div class="single-photo"><img src="/2021/images/tenzin.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
                             <p>"Eventually, you know, coming back to Missoula, I just, I kind of made the realization home is whatever I make it to be, you know? And it's really about the people who I'm with and the community."</p>
-                            <p><a href="/transcripts/Tenzin.pdf" target="_blank">Read Tenzin's full interview transcript (PDF)</a></p>
+                            <p><a href="/2021/transcripts/Tenzin.pdf" target="_blank">Read Tenzin's full interview transcript (PDF)</a></p>
 
 
                         </div>
@@ -45,7 +46,5 @@
     </div>
 
     <!--Footer-->
-  <?php require '../footer.php'; ?>
-
-  </body>
+  <?php require '../../footer.php'; ?>
 </html>
