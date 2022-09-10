@@ -8,6 +8,7 @@
 
 ?>
 <?php require '../header.php'; ?>
+<?php require '../menu.php'; ?>
 
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
@@ -46,6 +47,4 @@
 
     <!--Footer-->
   <?php require '../footer.php'; ?>
-
-  </body>
 </html>
