@@ -39,7 +39,7 @@
   <div class="header-holder center-relative relative content-1140">
     <div class="header-logo center-text">
         <a href="/">
-            <img src="../images/SLM_Logo.png" alt="Soft Landing Missoula logo">
+            <img src="/images/SLM_Logo.png" alt="Soft Landing Missoula logo">
         </a>
     </div>
 
