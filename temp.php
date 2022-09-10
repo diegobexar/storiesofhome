@@ -1,10 +1,14 @@
 
 <!DOCTYPE HTML>
 <html lang="en-US">
-<!-- header.php goes here -->
+<!-- use this template for creating single participant page with audio or text and save: /year/participant/index.php -->
 <?php
 
   $PageTitle = 'STORIES OF HOME - TEMP';
+  $FirstName = '';
+  $LastName = '';
+  $Country = '';
+  $Image = '';
 
 ?>
 <?php require '/header.php'; ?>
@@ -21,7 +25,7 @@
                         <div class="story-item-info">
                             <div class="item-info-content">
                                 <div class="info-code ">
-                                    <p class="info-code-title"></p>
+                                    <h1 class="info-code-title"></h1>
                                     <p class="info-code-content"></p>
                                 </div>
                               <!--  <div class="info-code ">
