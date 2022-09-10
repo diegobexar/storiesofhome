@@ -2,7 +2,7 @@
     <div class="footer-content content-1140 center-relative">
         <div class="footer-logo">
             <a href="http://softlandingmissoula.org">
-                <img src="/assets/SLM_Logo.png" alt="SML Logo">
+                <img src="/assets/SLM2022Logo-White.png" alt="SML Logo">
             </a>
         </div>
        <ul id="footer-sidebar">
