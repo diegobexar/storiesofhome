@@ -43,13 +43,13 @@
         </a>
     </div>
 
-    <!--<div class="toggle-holder absolute">
+    <div class="toggle-holder absolute">
         <div id="toggle">
             <div class="first-menu-line"></div>
             <div class="second-menu-line"></div>
             <div class="third-menu-line"></div>
         </div>
-    </div>-->
+    </div>
     <div class="clear"></div>
   </div>
   <div class="content-1140 header-content center-relative block">
