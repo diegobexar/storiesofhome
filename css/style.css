@@ -302,7 +302,7 @@ body a:hover
     font-weight: 300;
     text-align: left;
     padding-left: 100px;
-    margin-top: 60px;
+    /*margin-top: 60px;*/
     display: inline-block;
     cursor: auto;
 }

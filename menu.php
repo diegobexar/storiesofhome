@@ -12,9 +12,18 @@
         </div>
         <div class="menu-right-part">
             <nav id="header-main-menu" class="big-menu">
-                <ul class="main-menu sm sm-clean">
+            <ul class="main-menu sm sm-clean">
                     <li><a href="/index.php" class="current">Home</a></li>
-                    <li style="margin-top:2rem;"><strong><a href="/2021/">2021</a></strong></li>
+                    <li style="margin-top:1rem;"><strong><a href="/2022/">2022</a></strong></li>
+                    <li><a href="/2022/aseel/">ASEEL</a></li>
+                    <li><a href="/2022/chanda/">CHANDA</a></li>
+                    <li><a href="/2022/participant1/">participant1</a></li>
+                    <li><a href="/2022/participant2/">participant2</a></li>
+                    <li><a href="/2022/participant3/">participant3</a></li>
+                    <hr>
+                </ul>
+                <ul class="main-menu sm sm-clean">
+                    <li><strong><a href="/2021/">2021</a></strong></li>
                     <li><a href="/2021/charly/">CHARLY</a></li>
                     <li><a href="/2021/tenzin/">TENZIN</a></li>
                     <li><a href="/2021/zohair/">ZOHAIR</a></li>
