@@ -5,6 +5,19 @@
 ?>
 
 <div id="content" class="site-content">
+    <div class="image-grid">
+        <div class="image-row"> 
+            <div class="image-column">
+                <img class="img-22" src="images/aseel-1.jpg">
+                <img class="img-22" src="images/participant1-1.jpg">
+                <img class="img-22" src="images/chanda-1.jpg">
+            </div>
+            <div class="image-column">
+                <img class="img-22" src="images/participant2-1.jpg">
+                <img class="img-22" src="images/participant3-1.jpg">
+            </div>
+        </div>
+    </div>
         <!-- <ul class="grid" id="story">
                 <li class="grid-item element-item animate show-it">
                     <div class="item-wrapper">
