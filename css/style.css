@@ -119,6 +119,10 @@ body a:hover
     height: auto;
 }
 
+.bg-pine {
+    background-color: #5c8f85;
+}
+
 
 /* ===================================
     1.1 Global Header Logo/Menu CSS
@@ -147,7 +151,7 @@ body a:hover
 
 .header-logo img
 {
-    width: 200px;
+    width: 500px;
     -webkit-transition: opacity 0.3s linear;
     transition: opacity 0.3s linear;
 }
@@ -211,7 +215,7 @@ body a:hover
     visibility: hidden;
     opacity: 0;
     transition: visibility 0s linear 0.5s, opacity 0.7s ease;
-    cursor: url(/images/close.png), auto;
+    cursor: url(/assets/close.png), auto;
 }
 
 .menu-wraper.show
@@ -266,7 +270,7 @@ body a:hover
     content: "";
     position: absolute;
     display: block;
-    border-right: 1px solid #1a1a1a;
+    /*border-right: 1px solid #1a1a1a;*/
     height: 110%;
     left: 50%;
     left: calc(50% - 1px);

@@ -1,10 +1,10 @@
-<div class="menu-wraper center-relative">
+<div class="menu-wraper center-relative bg-pine" style="background-color:#5c8f85;">
     <div class="menu-holder">
         <div class="menu-left-part">
             <!--<div class="menu-left-text">
                 STORIES OF HOME<br />MISSOULA
             </div>-->
-            <div class="menu-left-intro">
+            <div class="menu-left-intro d-none">
                 <p><strong>STORIES OF HOME</strong> explores homes left behind, homes found, and the experiences in between. Put together by <a href="http://softlandingmissoula.org" target="_blank">Soft Landing Missoula</a>, this exhibit pairs audio from interviews with beautiful portraits to tell stories of immigrants and refugees in Missoula.</p>
                 <p>We all have ideas of what home means to us. This is true whether you have had one home, are displaced from a home, or have multiple homes in your life. Immigrants and refugees bring an incredible richness to their new homes, as well as unique experiences and views on the idea of home. This project looks at one city - Missoula, Montana - and the new neighbors who have found a home here. A new home doesn’t take the place of previous homes, but celebrates the richness and complexities that each home brings.</p>
                 <p>We hope these stories are a part of understanding diverse experiences with home while also finding common connections across shared values of home.</p>

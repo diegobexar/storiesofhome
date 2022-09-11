@@ -40,7 +40,7 @@
   <div class="header-holder center-relative relative content-1140">
     <div class="header-logo center-text">
         <a href="/">
-            <img src="/assets/SLM2022Logo-White.png" alt="Soft Landing Missoula logo">
+            <img src="/assets/SLM2022Logo-White-Horizontal.png" alt="Soft Landing Missoula logo">
         </a>
     </div>
 
@@ -55,8 +55,7 @@
   </div>
   <div class="content-1140 header-content center-relative block">
       <h1 class="entry-title">
-          STORIES OF HOME <br>
-          MISSOULA<br>
+          STORIES OF HOME
       </h1>
       <div class="sub-head">Exploring the experiences of refugees and immigrants in Missoula, Montana</div>
   </div>
