@@ -3,7 +3,9 @@
   $title = 'STORIES OF HOME MISSOULA 2021';
 
 ?>
-
+<style>
+body{ background-color: #121212; }
+</style>
 <div id="content" class="site-content">
             <ul class="grid" id="story">
                 <li class="grid-item element-item animate show-it">
