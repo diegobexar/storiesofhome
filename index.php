@@ -19,7 +19,7 @@
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
                 <div class="col">
-                    <div class="card text-bg-river border border-0">
+                    <div class="card text-bg-river border border-0 animate show-it">
                     <a href="/2022/"><img src="/2022/images/participant1-card-1.jpg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <h3 class="card-title"><a href="/2022/">Stories of Home 2022</a></h3>
@@ -36,7 +36,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card text-bg-river border border-0">
+                    <div class="card text-bg-river border border-0 animate show-it">
                     <a href="/2021/"><img src="/2021/images/charly-card.jpg" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                             <h3 class="card-title"><a href="/2021/">Stories of Home 2021</a></h3>
