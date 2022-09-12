@@ -8,7 +8,11 @@
   <meta name="author" content="SLM">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="icon" href="assets/favicon-32.png" sizes="32x32">
+  <link rel="icon" href="assets/favicon-128.png" sizes="128x128">
+  <link rel="icon" href="assets/favicon-180.png" sizes="180x180">
+  <link rel="icon" href="assets/favicon-192.png" sizes="192x192">
+
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display%7CMontserrat:400,700%7CRoboto:300,300i,400,400i,700,700i" rel="stylesheet" type="text/css">
 
   <link rel="stylesheet" type="text/css" href="/css/clear.css">
