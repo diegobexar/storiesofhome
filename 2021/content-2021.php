@@ -21,7 +21,7 @@ body{ background-color: #121212; background-image: linear-gradient(#121212, #000
                                 </p>
                                 <p class="story-arrow">
                                     <a href="/2021/charly/">
-                                        <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
+                                        <img class="main-arrow" src="/assets/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
                             </div>
@@ -41,7 +41,7 @@ body{ background-color: #121212; background-image: linear-gradient(#121212, #000
                                 </p>
                                 <p class="story-arrow">
                                     <a href="/2021/tenzin/">
-                                        <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
+                                        <img class="main-arrow" src="/assets/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
                             </div>
@@ -61,7 +61,7 @@ body{ background-color: #121212; background-image: linear-gradient(#121212, #000
                                 </p>
                                 <p class="story-arrow">
                                     <a href="/2021/zohair/">
-                                        <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
+                                        <img class="main-arrow" src="/assets/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
                             </div>
@@ -84,7 +84,7 @@ body{ background-color: #121212; background-image: linear-gradient(#121212, #000
                                 </p>
                                 <p class="story-arrow">
                                     <a href="/2021/nereyda/">
-                                        <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
+                                        <img class="main-arrow" src="/assets/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
                             </div>
@@ -104,7 +104,7 @@ body{ background-color: #121212; background-image: linear-gradient(#121212, #000
                                 </p>
                                 <p class="story-arrow">
                                     <a href="/2021/paul/">
-                                        <img class="main-arrow" src="images/opta_arrow@2x.png" alt="">
+                                        <img class="main-arrow" src="/assets/opta_arrow@2x.png" alt="">
                                     </a>
                                 </p>
                             </div>
