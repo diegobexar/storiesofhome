@@ -873,6 +873,23 @@ body a:hover
     background-color: #000;
 }
 
+.name-overlay-wrapper {
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+  }
+  
+  .name-overlay-wrapper .name-overlay-content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(54, 109, 155); /* Fallback color */
+    background: rgba(54, 109, 155, 0.8); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 0.5rem 20px 5px 20px; /* Some padding */
+    line-height: normal;
+  }
+
 
 /* ===================================
     5. Single Post CSS

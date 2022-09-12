@@ -8,13 +8,49 @@
     <div class="image-grid">
         <div class="image-row"> 
             <div class="image-column">
-                <img class="img-22" src="images/aseel-1.jpg">
-                <img class="img-22" src="images/moses-1.jpg">
-                <img class="img-22" src="images/chanda-1.jpg">
+                <!-- start aseel -->
+                <div class="name-overlay-wrapper animate show-it">
+                    <a href="/2022/<?php echo $P5; ?>/"><img class="img-22" src="images/<?php echo $P5; ?>-1.jpg" alt="Photo of <?php echo $P5; ?>"></a>
+                    <div class="name-overlay-content">
+                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></div>
+                        <small class="text-uppercase">Afghanistan</small>
+                    </div>
+                </div>
+                <!-- start moses -->
+                <div class="name-overlay-wrapper animate show-it">
+                    <a href="/2022/<?php echo $P3; ?>/"><img class="img-22" src="images/<?php echo $P3; ?>-1.jpg" alt="Photo of <?php echo $P3; ?>"></a>
+                    <div class="name-overlay-content">
+                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></div>
+                        <small class="text-uppercase">Democratic Republic of Congo Burundi</small>
+                    </div>
+                </div>
+                <!-- start chanda --->
+                <div class="name-overlay-wrapper animate show-it">
+                    <a href="/2022/<?php echo $P4; ?>/"><img class="img-22" src="images/<?php echo $P4; ?>-1.jpg" alt="Photo of <?php echo $P4; ?>"></a>
+                    <div class="name-overlay-content">
+                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></div>
+                        <small class="text-uppercase">Democratic Republic of Congo</small>
+                    </div>
+                </div>
+                <!-- end first column -->
             </div>
             <div class="image-column">
-                <img class="img-22" src="images/farida-sohil-1.jpg">
-                <img class="img-22" src="images/gloria-1.jpg">
+                <!-- start farida and sohil -->
+                <div class="name-overlay-wrapper animate show-it">
+                    <a href="/2022/<?php echo $P1L; ?>/"><img class="img-22" src="images/<?php echo $P1L; ?>-1.jpg" alt="Photo of <?php echo $P1; ?>"></a>
+                    <div class="name-overlay-content">
+                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></div>
+                        <small class="text-uppercase">Afghanistan</small>
+                    </div>
+                </div>
+                <!-- start gloria -->
+                <div class="name-overlay-wrapper animate show-it">
+                    <a href="/2022/<?php echo $P2; ?>/"><img class="img-22" src="images/<?php echo $P2; ?>-1.jpg" alt="Photo of <?php echo $P2; ?>"></a>
+                    <div class="name-overlay-content">
+                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></div>
+                        <small class="text-uppercase">Democratic Republic of Congo<br />Rwanda</small>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
