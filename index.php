@@ -3,11 +3,6 @@
   <?php
 
     $PageTitle = 'STORIES OF HOME MISSOULA';
-    $P1 = 'participant1'; //mom and kid
-    $P2 = 'participant2'; // young lady
-    $P3 = 'participant3'; //dude
-    $P4 = 'chanda'; // mom and baby
-    $P5 = 'anseel'; // gentleman
 
   ?>
     <?php include 'header.php'; ?>

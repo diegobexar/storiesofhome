@@ -34,6 +34,13 @@
   </script> -->
 
 </head>
+<?php
+    $P1 = 'participant1'; //mom and kid
+    $P2 = 'participant2'; // young lady
+    $P3 = 'participant3'; //dude
+    $P4 = 'chanda'; // mom and baby
+    $P5 = 'anseel'; // gentleman
+?>
 <body class="single single-story">
 
   <div class="doc-loader"></div>
