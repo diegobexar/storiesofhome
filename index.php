@@ -19,13 +19,13 @@
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
                 <div class="col">
-                    <div class="card text-bg-dark border border-0">
-                    <img src="/2022/images/participant1-card-1.jpg" class="card-img-top" alt="...">
+                    <div class="card text-bg-river border border-0">
+                    <a href="/2022/"><img src="/2022/images/participant1-card-1.jpg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <h3 class="card-title"><a href="/2022/">Stories of Home 2022</a></h3>
                         <p class="card-text">
                             <ul class="list-inline">
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P1; ?>/"><?php echo $P1; ?></a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
                                 <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
                                 <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
                                 <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
@@ -36,8 +36,8 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card text-bg-dark border border-0">
-                    <img src="/2021/images/charly-card.jpg" class="card-img-top" alt="...">
+                    <div class="card text-bg-river border border-0">
+                    <a href="/2021/"><img src="/2021/images/charly-card.jpg" class="card-img-top" alt="..."></a>
                         <div class="card-body">
                             <h3 class="card-title"><a href="/2021/">Stories of Home 2021</a></h3>
                             <p class="card-text">
