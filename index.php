@@ -25,11 +25,11 @@
                         <h3 class="card-title"><a href="/2022/">Stories of Home 2022</a></h3>
                         <p class="card-text">
                             <ul class="list-inline">
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></li>              
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></li>              
                             </ul>
                         </p>
                     </div>
@@ -42,11 +42,11 @@
                             <h3 class="card-title"><a href="/2021/">Stories of Home 2021</a></h3>
                             <p class="card-text">
                                 <ul class="list-inline">
-                                    <li class="list-inline-item"><a href="/2021/charly/">CHARLY</a></li>
-                                    <li class="list-inline-item"><a href="/2021/tenzin/">TENZIN</a></li>
-                                    <li class="list-inline-item"><a href="/2021/zohair/">ZOHAIR</a></li>
-                                    <li class="list-inline-item"><a href="/2021/nereyda/">NEREYDA</a></li>
-                                    <li class="list-inline-item"><a href="/2021/paul/">PAUL</a></li>
+                                    <li class="list-inline-item text-uppercase fs-2"><a href="/2021/charly/">CHARLY</a></li>
+                                    <li class="list-inline-item text-uppercase fs-2"><a href="/2021/tenzin/">TENZIN</a></li>
+                                    <li class="list-inline-item text-uppercase fs-2"><a href="/2021/zohair/">ZOHAIR</a></li>
+                                    <li class="list-inline-item text-uppercase fs-2"><a href="/2021/nereyda/">NEREYDA</a></li>
+                                    <li class="list-inline-item text-uppercase fs-2"><a href="/2021/paul/">PAUL</a></li>
                                 </ul>
                             </p>
                         </div>

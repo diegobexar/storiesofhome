@@ -888,7 +888,7 @@ body a:hover
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: rgb(255,255,255, 0.87);
+    color: RGBA(255,255,255, 1);
     font-size: 60px;
     line-height: 60px;
     /*margin-bottom: 40px;*/
