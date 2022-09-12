@@ -74,7 +74,7 @@ body a:hover
 }
 
 .text-bg-river {
-    color: #fff!important;
+    color: #EFEFEF!important;
     background-color: RGBA(35, 71, 102,var(--bs-bg-opacity,2))!important;
 
 }
