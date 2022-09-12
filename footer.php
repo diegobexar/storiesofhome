@@ -33,7 +33,9 @@
 
         <ul class="copyright-holder">
             <li class="copyright-footer">
-                © 2022 <a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
+                <?php
+                    echo "Copyright &copy; " . date("Y") . " ";
+                ?><a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
             </li>
         </ul>
     </div>
