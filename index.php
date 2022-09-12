@@ -3,6 +3,11 @@
   <?php
 
     $PageTitle = 'STORIES OF HOME MISSOULA';
+    $P1 = 'participant1'; //mom and kid
+    $P2 = 'participant2'; // young lady
+    $P3 = 'participant3'; //dude
+    $P4 = 'chanda'; // mom and baby
+    $P5 = 'anseel'; // gentleman
 
   ?>
     <?php include 'header.php'; ?>
@@ -25,11 +30,11 @@
                         <h3 class="card-title"><a href="/2022/">Stories of Home 2022</a></h3>
                         <p class="card-text">
                             <ul class="list-inline">
-                                <li class="list-inline-item text-uppercase"><a href="/2022/participant1/">participant1</a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/chanda/">CHANDA</a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/anseel/">ANSEEL</a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/participant2/">participant2</a></li>
-                                <li class="list-inline-item text-uppercase"><a href="/2022/participant3/">participant3</a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P1; ?>/"><?php echo $P1; ?></a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
+                                <li class="list-inline-item text-uppercase"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></li>              
                             </ul>
                         </p>
                     </div>
