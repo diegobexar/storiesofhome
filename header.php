@@ -39,9 +39,10 @@
 
 </head>
 <?php
-    $P1 = 'participant1'; //mom and kid
-    $P2 = 'participant2'; // young lady
-    $P3 = 'participant3'; //dude
+    $P1 = 'Farida & Sohil'; //mom and kid
+    $P1L = 'farida-sohil'; // link friendly var
+    $P2 = 'gloria'; // young lady
+    $P3 = 'moses'; //dude
     $P4 = 'chanda'; // mom and baby
     $P5 = 'anseel'; // gentleman
 ?>
