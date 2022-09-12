@@ -9,6 +9,9 @@
 ?>
 <?php require '../../header.php'; ?>
 <?php require '../../menu.php'; ?>
+<style>
+body{ background-color: #121212; background-image: linear-gradient(#121212, #000000); }
+</style>
 
     <div id="content" class="site-content">
         <div class="content-1140 center-relative bottom-100">
