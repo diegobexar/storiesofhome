@@ -9,12 +9,12 @@
         <div class="image-row"> 
             <div class="image-column">
                 <img class="img-22" src="images/aseel-1.jpg">
-                <img class="img-22" src="images/participant1-1.jpg">
+                <img class="img-22" src="images/moses-1.jpg">
                 <img class="img-22" src="images/chanda-1.jpg">
             </div>
             <div class="image-column">
-                <img class="img-22" src="images/participant2-1.jpg">
-                <img class="img-22" src="images/participant3-1.jpg">
+                <img class="img-22" src="images/farida-sohil-1.jpg">
+                <img class="img-22" src="images/gloria-1.jpg">
             </div>
         </div>
     </div>
