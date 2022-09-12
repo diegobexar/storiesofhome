@@ -4,7 +4,7 @@
 
 ?>
 <style>
-body{ background-color: #121212; }
+body{ background-color: #121212; background-image: linear-gradient(#121212, #000000); }
 </style>
 <div id="content" class="site-content">
             <ul class="grid" id="story">
