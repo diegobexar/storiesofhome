@@ -32,6 +32,10 @@ body
     color: rgb(255,255,255, 0.9);
     background-color: #366d9b;
     background-image: linear-gradient(#366d9b, #0d6ab8);
+    background-image: url('/assets/SLM2022Logo-White-half.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left;
 }
 
 body a
