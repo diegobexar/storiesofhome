@@ -44,7 +44,7 @@
     $P2 = 'gloria'; // young lady
     $P3 = 'moses'; //dude
     $P4 = 'chanda'; // mom and baby
-    $P5 = 'anseel'; // gentleman
+    $P5 = 'aseel'; // gentleman
 ?>
 <body class="single single-story">
 
