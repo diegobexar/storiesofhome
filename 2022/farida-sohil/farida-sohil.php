@@ -5,7 +5,7 @@
 <img src="/2022/images/farida-sohil-5.jpg" class="mb-3" title="Farida & Sohil" />
 <p>“I used to imagine how it would be to see my mom. When I got here, I couldn’t believe that I had arrived to the United States, and even after a couple days, I couldn’t imagine that I was still here, still here with my mom.” </p>
 
-<p>When Farida arrived in Missoula, Montana -- with her asylum case approved and her pathway to permanent residency paved -- she devoted herself every day after to helping Sohil join her in the United States under the United Nations’ family reunification program, which allows immediate family members abroad to join their refugee or asylee relatives in this country. </p>
+<p>Farida arrived in Missoula, Montana in May 2016, her asylum case approved and her pathway to permanent residency paved. She devoted herself every day after to helping Sohil join her in the United States under the United Nations’ family reunification program, which allows immediate family members abroad to join their refugee or asylee relatives in this country. </p>
 <img src="/2022/images/farida-sohil-2.jpg" class="mb-3" title="Farida & Sohil" />
 <p>When Kabul fell in August 2021, the urgency of those efforts intensified. Sohil was able to cross the border into Pakistan, where he remained for three months before his documents were secured and he began the final leg of his years-long journey to Missoula and his mother’s arms. </p>
 <img src="/2022/images/farida-sohil-3.jpg" class="mb-3" title="Farida & Sohil" />
