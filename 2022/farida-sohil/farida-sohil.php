@@ -25,7 +25,7 @@
 <img src="/2022/images/farida-sohil-8.jpg" class="mb-3" title="Farida & Sohil" />
 <p>Both Farida and Sohil have dreams for their future in Missoula. </p>
 
-<p>Sohil, recently engaged, is eager for his fiance to be able to make her way to the United States. He also wants to start college at the University of Montana, where his main focus is finding a career that allows him to “serve Missoula people.” “If it were in my native tongue, I would really want to study journalism. </p>
+<p>Sohil, recently engaged, is eager for his fiance to be able to make her way to the United States. He also wants to start college at the University of Montana, where his main focus is finding a career that allows him to “serve Missoula people. If it were in my native tongue, I would really want to study journalism." </p>
 
 <p>Farida will continue to work tirelessly in service of making Missoula feel more like home for her fellow Afghans. She’s lovingly referred to as “mommy” by many of them, a tribute to her steadfast willingness to help them make the transition any way she can – like how to cook traditional bread in the oven or how to acquire furniture for new homes. But she’s also working hard to reunite her children, grandchildren, siblings and the rest of her family, currently scattered all over the world as a result of the tumult in Afghanistan, and focusing on all the good she does have in life today. </p>
 <img src="/2022/images/farida-sohil-7.jpg" class="mb-3" title="Farida & Sohil" />
