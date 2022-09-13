@@ -12,9 +12,9 @@
             <div class="card text-bg-dark bg-opacity-50 border border-0">
                 <div class="card-body">
                 <h2 class="fw-semibold fst-italic">"Where do you call home?"</h2>
-                    <p>It's an innocuous question, often asked as part of small talk or a harmless ice breaker. But for those who have been displaced or forced to uproot their lives -- like many of the refugees and immigrants we who have found their way to Missoula -- the answer is far from simple.</p>
+                    <p>It's an innocuous question, often asked as part of small talk or an ice breaker. But for people who have been displaced or forced to uproot their lives -- like many of the refugees and immigrants who have arrived in Missoula -- the answer is far from simple.</p>
                     <p>Put together by <a href="https://softlandingmissoula.org">Soft Landing Missoula</a>, <strong>STORIES OF HOME</strong> explores the multitude of ways people define home, particularly when uncertainty prevails: the homes left behind and the new homes created; the homes we hope to create and those we only remember; the homes we find in a physical structure, and the homes we find in the comfort of a loved one.</p> 
-                    <p>These multimedia projects pair rich photography with the spoken word and the written word to share the stories of those who arrived in Missoula as refugees and immigrants. The projects aim to elevate and amplify their voices as well demonstrate the shared experiences that mark our lives -- no matter where we call home.</p> 
+                    <p>These multimedia projects pair rich photography with the spoken word and the written word to share the stories of people who arrived in Missoula as refugees and immigrants and provide a glimpse into the new lives they have since built. The projects aim to elevate and amplify their voices as well demonstrate the shared experiences that mark our lives -- no matter where we call home.</p> 
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
