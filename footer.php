@@ -16,7 +16,7 @@
             <li class="widget widget_recent_entries">
                 <h4 class="widgettitle">OUR MISSION</h4>
                 <p><strong>Soft Landing Missoula</strong> strives to help Missoula, Montana be a welcoming, supportive and informed community that can assist refugees and immigrants to integrate and thrive.</p>
-                <p>Support SLM with a <a href="https://softlandingmissoula.org/donate" target="_blank" style="border-bottom:none;">donation</a></p>
+                <p>Support SLM with a <a href="https://softlandingmissoula.org/donations/" target="_blank" style="border-bottom:none;">donation</a></p>
             </li>
             <li class="widget widget_tag_cloud">
                 <h4 class="widgettitle">SOCIAL</h4>
