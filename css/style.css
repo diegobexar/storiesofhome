@@ -1407,6 +1407,22 @@ body a:hover
     transform: translate(10px);
 }
 
+ul.name-list {
+    list-style: none;
+    flex-wrap: wrap;
+}
+ ul.name-list li + li::before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0.5ch;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background-color: currentColor;
+    align-items: center;
+  }
+
 
 /* ===================================
     9. Gallery Page CSS
