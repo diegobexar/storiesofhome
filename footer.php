@@ -2,7 +2,7 @@
     <div class="footer-content content-1140 center-relative">
         <div class="footer-logo">
             <a href="http://softlandingmissoula.org">
-                <img src="/images/SLM_Logo.png" alt="SML Logo">
+                <img src="/assets/SLM2022Logo-White.png" alt="SML Logo">
             </a>
         </div>
        <ul id="footer-sidebar">
@@ -16,7 +16,10 @@
             <li class="widget widget_recent_entries">
                 <h4 class="widgettitle">OUR MISSION</h4>
                 <p><strong>Soft Landing Missoula</strong> strives to help Missoula, Montana be a welcoming, supportive and informed community that can assist refugees and immigrants to integrate and thrive.</p>
-                <p>Support SLM with a <a href="https://softlandingmissoula.org/donate" target="_blank" style="border-bottom:none;">donation</a></p>
+                <a href="https://secure.givelively.org/donate/social-environmental-entrepreneurs-see-inc/soft-landing-missoula" target="_blank""><button type="button" class="btn btn-primary bg-pine"
+        style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem; border-color:#5c8f85;">
+  Support SLM with a donation
+</button></a>
             </li>
             <li class="widget widget_tag_cloud">
                 <h4 class="widgettitle">SOCIAL</h4>
@@ -24,16 +27,14 @@
                     <a href="https://www.facebook.com/softlandingmissoula" target="_blank">Facebook</a>
                     <a href="https://www.instagram.com/softlandingmissoula/" target="_blank">Instagram</a>
                 </div>
-                <h4 class="widgettitle">PHOTOS</h4>
-                <div class="tagcloud">
-                    <p>Photographs by Helen Rolston-Clemmer</p>
-                </div>
             </li>
         </ul>
 
         <ul class="copyright-holder">
             <li class="copyright-footer">
-                © 2022 <a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
+                <?php
+                    echo "Copyright &copy; " . date("Y") . " ";
+                ?><a href="http://softlandingmissoula.org">Soft Landing Missoula</a>
             </li>
         </ul>
     </div>
@@ -45,3 +46,4 @@
 <script type='text/javascript' src='/js/slick.min.js'></script>
 <script type='text/javascript' src='/js/jquery.easing.1.4.1.js'></script>
 <script type='text/javascript' src='/js/main.js'></script>
+</body>

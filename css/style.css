@@ -30,13 +30,18 @@ body
     line-height: 35px;
     font-weight: 400;
     color: rgb(255,255,255, 0.9);
-    background-color: #121212;
+    background-color: RGBA(54,109,155, 1);
+    background-image: linear-gradient(#366d9b, #0d6ab8);
+    background-image: url('/assets/SLM2022Logo-White-half.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left;
 }
 
 body a
 {
     text-decoration: none;
-    color: #d7b065;
+    color: #dcb548;
     transition: color .2s linear;
 }
 
@@ -66,6 +71,12 @@ body a:hover
     height: 100%;
     z-index: 99999;
     background-color: #fff;
+}
+
+.text-bg-river {
+    color: #EFEFEF!important;
+    background-color: RGBA(35, 71, 102,var(--bs-bg-opacity,2))!important;
+
 }
 
 .animate
@@ -119,6 +130,10 @@ body a:hover
     height: auto;
 }
 
+.bg-pine {
+    background-color: #5c8f85;
+}
+
 
 /* ===================================
     1.1 Global Header Logo/Menu CSS
@@ -147,7 +162,7 @@ body a:hover
 
 .header-logo img
 {
-    width: 140px;
+    width: 500px;
     -webkit-transition: opacity 0.3s linear;
     transition: opacity 0.3s linear;
 }
@@ -211,7 +226,7 @@ body a:hover
     visibility: hidden;
     opacity: 0;
     transition: visibility 0s linear 0.5s, opacity 0.7s ease;
-    cursor: url(/images/close.png), auto;
+    cursor: url(/assets/close.png), auto;
 }
 
 .menu-wraper.show
@@ -266,7 +281,7 @@ body a:hover
     content: "";
     position: absolute;
     display: block;
-    border-right: 1px solid #1a1a1a;
+    /*border-right: 1px solid #1a1a1a;*/
     height: 110%;
     left: 50%;
     left: calc(50% - 1px);
@@ -302,7 +317,7 @@ body a:hover
     font-weight: 300;
     text-align: left;
     padding-left: 100px;
-    margin-top: 60px;
+    /*margin-top: 60px;*/
     display: inline-block;
     cursor: auto;
 }
@@ -858,6 +873,23 @@ body a:hover
     background-color: #000;
 }
 
+.name-overlay-wrapper {
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+  }
+  
+  .name-overlay-wrapper .name-overlay-content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(54, 109, 155); /* Fallback color */
+    background: rgba(54, 109, 155, 0.8); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 0.5rem 20px 5px 20px; /* Some padding */
+    line-height: normal;
+  }
+
 
 /* ===================================
     5. Single Post CSS
@@ -873,7 +905,7 @@ body a:hover
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: rgb(255,255,255, 0.87);
+    color: RGBA(255,255,255, 1);
     font-size: 60px;
     line-height: 60px;
     /*margin-bottom: 40px;*/
@@ -1113,6 +1145,17 @@ body a:hover
     max-width: 100%;
     padding-left: 0;
 }
+.image-grid
+{
+    width: 1300px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    list-style: none;
+    max-width: 100%;
+    padding-left: 0;
+}
 
 .item-wrapper
 {
@@ -1314,7 +1357,7 @@ body a:hover
 
 .single-story .story-item-info
 {
-    width: 300px;
+    width: 350px;
     float: left;
 }
 
@@ -1363,6 +1406,22 @@ body a:hover
 {
     transform: translate(10px);
 }
+
+ul.name-list {
+    list-style: none;
+    flex-wrap: wrap;
+}
+ ul.name-list li + li::before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0.5ch;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background-color: currentColor;
+    align-items: center;
+  }
 
 
 /* ===================================
@@ -1637,12 +1696,12 @@ footer ul
     clear: both;
     color: rgb(255,255,255, 0.9);
     text-align: center;
-    background: #000;
+    background: #121212;
 }
 
 .footer a
 {
-    color: #d7b065;
+    color: #dcb548;
 }
 
 .footer-logo
@@ -1651,7 +1710,7 @@ footer ul
     position: relative;
     width: 140px;
     margin: 0 auto;
-    padding-top: 90px;
+    padding-top: 2rem;
 }
 
 /*.footer-logo:after
@@ -1828,7 +1887,49 @@ li.social-footer a:first-child
 {
     padding-left: 0;
 }
+/* ================================
+    2022 Responsive images
+====================================== */
 
+.image-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .image-column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  .img-22 {
+    border: 1px solid #6e664f;
+  }
+  
+  .image-column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .image-column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .image-column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
 
 /* ===================================
     12. Responsive CSS
@@ -2240,6 +2341,10 @@ li.social-footer a:first-child
 }
 
 @media screen and (max-width: 750px) {
+
+    .header-logo {
+        max-width:70%;
+    }
 
     .grid-item
     {
