@@ -30,7 +30,7 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/2022/images/<?php echo $FirstName; ?>-1.jpg" /></div>
+                            <div class="single-photo"><img src="/2022/images/<?php echo $FirstName; ?>-4.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
                             <?php include ('' . $FirstName .'.php'); ?>
