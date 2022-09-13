@@ -36,9 +36,10 @@
                             <?php include ('' . $FirstName .'.php'); ?>
                         </div>
                         <div class="clear"></div>
-                    </div>
+                        <p class="text-end fw-light fst-italic mt-2">Story by <strong>Carly Graf</strong>. Photos by <strong>Helen Rolston-Clemmer</strong></p>
+                    </div>                 
                 </div>
-                <div class="clear"></div>
+                <div class="clear"></div>            
             </div>
         </div>
     </div>
