@@ -1,6 +1,6 @@
 # Redirect to a URL on the same domain or host
 Redirect 301 "/charly" "/2021/charly/"
-Redirect 301 "/tenzi" "/2021/tenzin/"
+Redirect 301 "/tenzin" "/2021/tenzin/"
 Redirect 301 "/nereyda" "/2021/nereyda/"
 Redirect 301 "/zohair" "/2021/zohair/"
 Redirect 301 "/paul" "/2021/paul/"
