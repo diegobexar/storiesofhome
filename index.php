@@ -17,7 +17,23 @@
                     <p>These multimedia projects pair rich photography with the spoken word and the written word to share the stories of people who arrived in Missoula as refugees and immigrants and provide a glimpse into the new lives they have since built. The projects aim to elevate and amplify their voices as well demonstrate the shared experiences that mark our lives -- no matter where we call home.</p> 
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
+            <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+                <div class="col">
+                    <div class="card text-bg-river border border-0 animate show-it">
+                    <a href="/2023/"><img src="/2023/images/participant1-2023.jpg" class="card-img-top" alt="..."></a>
+                    <div class="card-body text-center">
+                        <h3 class="card-title"><a href="/2023/">Stories of Home 2023</a></h3>
+                        <p class="card-text">
+                            <ul class="list-inline name-list">
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P1L_23; ?>/"><?php echo $P1_23; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P2_23; ?>/"><?php echo $P2_23; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P3_23; ?>/"><?php echo $P3_23; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P4_23; ?>/"><?php echo $P4_23; ?></a></li>            
+                            </ul>
+                        </p>
+                    </div>
+                    </div>
+                </div>
                 <div class="col">
                     <div class="card text-bg-river border border-0 animate show-it">
                     <a href="/2022/"><img src="/2022/images/participant1-card-1.jpg" class="card-img-top" alt="..."></a>
