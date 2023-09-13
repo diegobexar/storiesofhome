@@ -6,7 +6,7 @@
   $FirstName = 'JP & Janvier';
   $FirstNameL = 'jp-janvier';
   $PageTitle = 'STORIES OF HOME - '.$FirstName;
-  $Country = 'Democratic Republic of Congo<br />Uganda'; //Democratic Republic of Congo<br />Burundi
+  $Country = 'Democratic Republic of Congo<br />Uganda<br />Rwanda'; //Democratic Republic of Congo<br />Burundi
 
 
 ?>
