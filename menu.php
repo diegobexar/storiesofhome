@@ -12,9 +12,17 @@
         </div>
         <div class="menu-right-part">
             <nav id="header-main-menu" class="big-menu">
-            <ul class="main-menu sm sm-clean">
+                <ul class="main-menu sm sm-clean">
                     <li><a href="/index.php" class="current">Home</a></li>
-                    <li style="margin-top:1rem;"><strong><a href="/2022/">2022</a></strong></li>            
+                    <li style="margin-top:1rem;"><strong><a href="/2023/">2023</a></strong></li>            
+                    <li class="text-uppercase"><a href="/2023/<?php echo $P1L_23; ?>/"><?php echo $P1_23; ?></a></li>
+                    <li class="text-uppercase"><a href="/2023/<?php echo $P2_23; ?>/"><?php echo $P2_23; ?></a></li>
+                    <li class="text-uppercase"><a href="/2023/<?php echo $P3_23; ?>/"><?php echo $P3_23; ?></a></li>
+                    <li class="text-uppercase"><a href="/2023/<?php echo $P4_23; ?>/"><?php echo $P4_23; ?></a></li>
+                    <hr>
+                </ul>
+                <ul class="main-menu sm sm-clean">
+                    <li><strong><a href="/2022/">2022</a></strong></li>            
                     <li class="text-uppercase"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
                     <li class="text-uppercase"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
                     <li class="text-uppercase"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>

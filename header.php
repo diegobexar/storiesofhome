@@ -40,12 +40,19 @@
 
 </head>
 <?php
+    // 2022
     $P1 = 'Farida & Sohil'; //mom and kid
     $P1L = 'farida-sohil'; // link friendly var
     $P2 = 'gloria'; // young lady
     $P3 = 'moses'; //dude
     $P4 = 'chanda'; // mom and baby
     $P5 = 'aseel'; // gentleman
+    // 2023
+    $P1_23 = 'JP & Janvier'; // 
+    $P1L_23 = 'jp-janvier'; // congo
+    $P2_23 = 'kamar'; // syria
+    $P3_23 = 'esther'; // Haiti
+    $P4_23 = 'abeer'; // yemen
 ?>
 <body class="single single-story">
 
