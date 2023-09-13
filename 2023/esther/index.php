@@ -36,7 +36,7 @@
                             <?php include ('' . $FirstName .'.php'); ?>
                         </div>
                         <div class="clear"></div>
-                        <p class="text-end fw-light fst-italic mt-2">Story by <strong>Carly Graf</strong>. Photos by <strong>Madeline Jorden</strong></p>
+                        <p class="text-end fw-light fst-italic mt-2">Story and photos by <strong>Carly Graf</strong></p>
                     </div>
                 </div>
                 <div class="clear"></div>
