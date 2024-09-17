@@ -53,6 +53,11 @@
     $P2_23 = 'kamar'; // syria
     $P3_23 = 'esther'; // Haiti
     $P4_23 = 'abeer'; // yemen
+    // 2024
+    $P1_24 = "ange"; // Congo
+    $P2_24 = "malak"; // Iraq
+    $P3_24 = "pathou"; // Congo
+    $P4_24 = "tanya"; // Ukraine
 ?>
 <body class="single single-story">
 

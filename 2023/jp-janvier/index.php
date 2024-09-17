@@ -22,7 +22,7 @@
                     <div class="content-970 center-relative">
                         <div class="story-item-info">
                             <div class="item-info-content">
-                                <div class="info-code text-end"">
+                                <div class="info-code text-end">
                                     <h1 class="info-code-title text-uppercase"><?php echo $FirstName; ?></h1>
                                     <p class="info-code-content long-country"><?php echo $Country; ?></p>
                                 </div>

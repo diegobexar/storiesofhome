@@ -2,9 +2,9 @@
 <html lang="en-US">
 <!-- use this template for creating single participant page with audio or text and save: /year/participant/index.php -->
 <?php
-  $FirstName = 'ange';
+  $FirstName = 'pathou';
   $PageTitle = 'STORIES OF HOME - '.$FirstName;
-  $Country = 'Uganda'; 
+  $Country = 'Congo'; 
 
 
 ?>
@@ -29,7 +29,7 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/2024/images/<?php echo $FirstName; ?>-4.jpg" /></div>
+                            <div class="single-photo"><img src="/2024/images/<?php echo $FirstName; ?>-2.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
                             <?php include ('' . $FirstName .'.php'); ?>
