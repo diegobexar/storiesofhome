@@ -4,7 +4,7 @@
 <?php
   $FirstName = 'ange';
   $PageTitle = 'STORIES OF HOME - '.$FirstName;
-  $Country = 'Uganda'; 
+  $Country = 'Democratic Republic of Congo'; 
 
 
 ?>

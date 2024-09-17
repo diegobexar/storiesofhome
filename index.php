@@ -26,9 +26,9 @@
                         <p class="card-text">
                             <ul class="list-inline name-list">
                                 <li class="list-inline-item text-uppercase fs-2"><a href="/2024/<?php echo $P1_24; ?>/"><?php echo $P1_24; ?></a></li>
-                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P2_24; ?>/"><?php echo $P2_24; ?></a></li>
-                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P3_24; ?>/"><?php echo $P3_24; ?></a></li>
-                                <li class="list-inline-item text-uppercase fs-2"><a href="/2023/<?php echo $P4_24; ?>/"><?php echo $P4_24; ?></a></li>            
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2024/<?php echo $P2_24; ?>/"><?php echo $P2_24; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2024/<?php echo $P3_24; ?>/"><?php echo $P3_24; ?></a></li>
+                                <li class="list-inline-item text-uppercase fs-2"><a href="/2024/<?php echo $P4_24; ?>/"><?php echo $P4_24; ?></a></li>            
                             </ul>
                         </p>
                     </div>
