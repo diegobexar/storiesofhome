@@ -20,7 +20,7 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
                 <div class="col">
                     <div class="card text-bg-river border border-0 animate show-it">
-                    <a href="/2024/"><img src="/2024/images/tanya-5.jpg" class="card-img-top" alt="..."></a>
+                    <a href="/2024/"><img src="/2024/images/participant-2024.jpg" class="card-img-top" alt="..."></a>
                     <div class="card-body text-center">
                         <h3 class="card-title"><a href="/2024/">Stories of Home 2024</a></h3>
                         <p class="card-text">
