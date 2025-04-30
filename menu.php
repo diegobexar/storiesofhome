@@ -33,7 +33,7 @@
                     <li><strong><a href="/2022/">2022</a></strong></li>            
                     <li class="text-uppercase"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
                     <li class="text-uppercase"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
-                    <li class="text-uppercase"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
+                    <!--<li class="text-uppercase"><a href="/2022/<//?php echo $P3; ?>/"><//?php echo $P3; ?></a></li>-->
                     <li class="text-uppercase"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
                     <li class="text-uppercase"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></li>
                     <hr>
