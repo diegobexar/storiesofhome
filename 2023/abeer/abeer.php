@@ -15,7 +15,7 @@
 
     <p>Saher, the youngest of the three brothers, recalls strict curfews and describes how difficult it was to access medication or education. Abeer says she would never wear any jewelry because she feared it would be stolen.</p>
 
-    <p>“A house is a place I go to sleep. Home is where I feel safe, where I can ensure physical welling, where I can find work, and where I can support myself and have my rights without constraint,” Samer said.</p>  
+    <p>“A house is a place I go to sleep. Home is where I feel safe, where I can ensure physical wellbeing, where I can find work, and where I can support myself and have my rights without constraint,” Samer said.</p>  
 
     <p>Abeer described home as “the people that live around you,” and the place that “connects you.” </p>
 

@@ -1,6 +1,6 @@
 <?php
 
-  $title = 'STORIES OF HOME MISSOULA 2022';
+  $title = 'STORIES OF HOME MISSOULA 2024';
 
 ?>
 
@@ -8,47 +8,39 @@
     <div class="image-grid">
         <div class="image-row"> 
             <div class="image-column">
-                <!-- start aseel -->
+                <!-- start esther -->
                 <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<?php echo $P5; ?>/"><img class="img-22" src="images/<?php echo $P5; ?>-1.jpg" alt="Photo of <?php echo $P5; ?>"></a>
+                    <a href="/2024/<?php echo $P3_24; ?>/"><img class="img-22" src="images/<?php echo $P3_24; ?>-4.jpg" alt="Photo of <?php echo $P3_24; ?>"></a>
                     <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></div>
-                        <small class="text-uppercase">Afghanistan</small>
+                        <div class="text-uppercase fs-3"><a href="/2024/<?php echo $P3_24; ?>/"><?php echo $P3_24; ?></a></div>
+                        <small class="text-uppercase">Democratic Republic of Congo</small>
                     </div>
                 </div>
-                <!-- start moses 
+                <!-- start abeer --->
                 <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<//?php echo $P3; ?>/"><img class="img-22" src="images/<//?php echo $P3; ?>-1.jpg" alt="Photo of <//?php echo $P3; ?>"></a>
+                    <a href="/2024/<?php echo $P4_24; ?>/"><img class="img-22" src="images/<?php echo $P4_24; ?>-3.jpg" alt="Photo of <?php echo $P4_24; ?>"></a>
                     <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<//?php echo $P3; ?>/"><//?php echo $P3; ?></a></div>
-                        <small class="text-uppercase">Democratic Republic of Congo Burundi</small>
-                    </div>
-                </div>-->
-                <!-- start chanda --->
-                <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<?php echo $P4; ?>/"><img class="img-22" src="images/<?php echo $P4; ?>-1.jpg" alt="Photo of <?php echo $P4; ?>"></a>
-                    <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></div>
-                        <small class="text-uppercase">Democratic Republic of Congo</small>
+                        <div class="text-uppercase fs-3"><a href="/2024/<?php echo $P4_24; ?>/"><?php echo $P4_24; ?></a></div>
+                        <small class="text-uppercase">Ukraine</small>
                     </div>
                 </div>
                 <!-- end first column -->
             </div>
             <div class="image-column">
-                <!-- start farida and sohil -->
+                <!-- start jp and janveier -->
                 <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<?php echo $P1L; ?>/"><img class="img-22" src="images/<?php echo $P1L; ?>-1.jpg" alt="Photo of <?php echo $P1; ?>"></a>
+                    <a href="/2024/<?php echo $P1L_24; ?>/"><img class="img-22" src="images/<?php echo $P1_24; ?>-1.jpg" alt="Photo of <?php echo $P1_24; ?>"></a>
                     <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></div>
-                        <small class="text-uppercase">Afghanistan</small>
+                        <div class="text-uppercase fs-3"><a href="/2024/<?php echo $P1_24; ?>/"><?php echo $P1_24; ?></a></div>
+                        <small class="text-uppercase">Democratic Republic of Congo</small>
                     </div>
                 </div>
-                <!-- start gloria -->
+                <!-- start kamar -->
                 <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<?php echo $P2; ?>/"><img class="img-22" src="images/<?php echo $P2; ?>-1.jpg" alt="Photo of <?php echo $P2; ?>"></a>
+                    <a href="/2024/<?php echo $P2_24; ?>/"><img class="img-22" src="images/<?php echo $P2_24; ?>-3.jpg" alt="Photo of <?php echo $P2_24; ?>"></a>
                     <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></div>
-                        <small class="text-uppercase">Democratic Republic of Congo<br />Rwanda</small>
+                        <div class="text-uppercase fs-3"><a href="/2024/<?php echo $P2_24; ?>/"><?php echo $P2_24; ?></a></div>
+                        <small class="text-uppercase">Iraq</small>
                     </div>
                 </div>
             </div>

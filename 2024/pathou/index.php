@@ -1,12 +1,10 @@
-
 <!DOCTYPE HTML>
 <html lang="en-US">
 <!-- use this template for creating single participant page with audio or text and save: /year/participant/index.php -->
 <?php
-  $FirstName = 'JP & Janvier';
-  $FirstNameL = 'jp-janvier';
+  $FirstName = 'pathou';
   $PageTitle = 'STORIES OF HOME - '.$FirstName;
-  $Country = 'Democratic Republic of Congo<br />Uganda<br />Rwanda'; //Democratic Republic of Congo<br />Burundi
+  $Country = 'Democratic Republic of Congo'; 
 
 
 ?>
@@ -23,7 +21,7 @@
                         <div class="story-item-info">
                             <div class="item-info-content">
                                 <div class="info-code text-end">
-                                    <h1 class="info-code-title text-uppercase"><?php echo $FirstName; ?></h1>
+                                    <h1 class="info-code-title text-uppercase" style="line-height:0;"><?php echo $FirstName; ?></h1>
                                     <p class="info-code-content long-country"><?php echo $Country; ?></p>
                                 </div>
                               <!--  <div class="info-code ">
@@ -31,13 +29,13 @@
                                     <p class="info-code-content"></p>
                                 </div> -->
                             </div>
-                            <div class="single-photo"><img src="/2023/images/<?php echo $FirstNameL; ?>-8.jpg" /></div>
+                            <div class="single-photo"><img src="/2024/images/<?php echo $FirstName; ?>-2.jpg" /></div>
                         </div>
                         <div class="content-wrapper">
-                            <?php include ('' . $FirstNameL .'.php'); ?>
+                            <?php include ('' . $FirstName .'.php'); ?>
                         </div>
                         <div class="clear"></div>
-                        <p class="text-end fw-light fst-italic mt-2">Story and photos by <strong>Carly Graf</strong></p>
+                        <p class="text-end fw-light fst-italic mt-2">Written by <strong>Meli Slater</strong><br>Photos by <strong>Helen Rolston-Clemmer</strong></p>
                     </div>
                 </div>
                 <div class="clear"></div>
