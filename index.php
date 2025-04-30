@@ -59,7 +59,7 @@
                             <ul class="list-inline name-list">
                                 <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P1L; ?>/"><?php echo $P1; ?></a></li>
                                 <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P2; ?>/"><?php echo $P2; ?></a></li>
-                                <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></li>
+                                <!--<li class="list-inline-item text-uppercase fs-2"><a href="/2022/<//?php echo $P3; ?>/"><//?php echo $P3; ?></a></li>-->
                                 <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P4; ?>/"><?php echo $P4; ?></a></li>
                                 <li class="list-inline-item text-uppercase fs-2"><a href="/2022/<?php echo $P5; ?>/"><?php echo $P5; ?></a></li>              
                             </ul>
