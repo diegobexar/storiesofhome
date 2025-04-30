@@ -16,14 +16,14 @@
                         <small class="text-uppercase">Afghanistan</small>
                     </div>
                 </div>
-                <!-- start moses -->
+                <!-- start moses 
                 <div class="name-overlay-wrapper animate show-it">
-                    <a href="/2022/<?php echo $P3; ?>/"><img class="img-22" src="images/<?php echo $P3; ?>-1.jpg" alt="Photo of <?php echo $P3; ?>"></a>
+                    <a href="/2022/<//?php echo $P3; ?>/"><img class="img-22" src="images/<//?php echo $P3; ?>-1.jpg" alt="Photo of <//?php echo $P3; ?>"></a>
                     <div class="name-overlay-content">
-                        <div class="text-uppercase fs-3"><a href="/2022/<?php echo $P3; ?>/"><?php echo $P3; ?></a></div>
+                        <div class="text-uppercase fs-3"><a href="/2022/<//?php echo $P3; ?>/"><//?php echo $P3; ?></a></div>
                         <small class="text-uppercase">Democratic Republic of Congo Burundi</small>
                     </div>
-                </div>
+                </div>-->
                 <!-- start chanda --->
                 <div class="name-overlay-wrapper animate show-it">
                     <a href="/2022/<?php echo $P4; ?>/"><img class="img-22" src="images/<?php echo $P4; ?>-1.jpg" alt="Photo of <?php echo $P4; ?>"></a>
